@@ -455,7 +455,7 @@ section{
 
 .contact-form button:hover {
     color: var(--primary-color);
-    background: ;
+    background: var(--secondary-color);
   }
 
 /*MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
